@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/api-calls-with-fetch-api-kCKhOpXzBS](https://www.frontendmentor.io/solutions/api-calls-with-fetch-api-kCKhOpXzBS)
 - Live Site URL: [https://asunamarie.github.io/advice-generator-app-main/](https://asunamarie.github.io/advice-generator-app-main/)
 
 ## My process
